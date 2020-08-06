@@ -5,6 +5,5 @@ function OnInitID()
 	-- [[ Squad Groups ]]
 
 	-- [[ Entity Groups ]]
-	eg_bridge = EGroup_CreateIfNotFound("eg_bridge")
 
 end
