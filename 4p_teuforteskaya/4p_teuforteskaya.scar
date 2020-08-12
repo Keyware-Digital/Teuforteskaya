@@ -1,0 +1,5 @@
+function Map_OnInit()
+    EGroup_SetInvulnerable(eg_bridge, true)
+end
+
+Scar_AddInit(Map_OnInit)
