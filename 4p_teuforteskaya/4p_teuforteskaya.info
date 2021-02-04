@@ -1,7 +1,7 @@
 HeaderInfo =  
 {
 	scenarioname = "(4 - 6) Teu Forteskaya",
-	scenariodescription = "Community map created by Trebor & Reuben, based on Teu Forte.\n\nSituated somewhere on the Ukrainian border lies the quaint Soviet town of Teu Forteskaya, still untouched by the war.\n\nAs Axis forces encroach, they discover the citizens of Teu Forteskaya have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time.\n\nNearby Soviet forces have been made aware of Axis presence by fleeing civilians, and thus proceed to advance on the town, setting up camp in the outskirts to prepare an offensive against the invaders.",
+	scenariodescription = "Community map created by Trebor & Reuben, based on Teu Forte.\n\nSituated somewhere on the Ukrainian border lies the quaint Soviet town of Teu Forteskaya, still untouched by the war.\n\nAs Axis forces encroach, they discover the citizens of Teu Forteskaya have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time.\n\nNearby Soviet forces have been made aware of Axis presence by fleeing civilians, and thus proceed to advance on the town, setting up camp in the outskirts to prepare an offensive against their invaders.",
 	maxplayers = 6,
 	scenario_battlefront = 2,
 	scenarioabbrname = "",
