@@ -1,0 +1,198 @@
+HeaderInfo =  
+{
+	scenarioname = "(4 - 6) Teu Forte",
+	scenariodescription = "Community map created by Trebor & Reuben, based on Trebor's vCoH classic.\n\nSituated on an offshoot of the river Siene lies the quaint French town of Teu Forte, still untouched by the war.\n\nAs Axis forces encroach, they discover the citizens of Teu Forte have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time.\n\nNearby Allied forces have been made aware of Axis presence by fleeing civilians, and thus proceed to advance on the town, setting up camp in the outskirts to prepare an offensive.",
+	maxplayers = 6,
+	scenario_battlefront = 2,
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2008,
+	mapsize =  
+	{
+		448,
+		448,
+	},
+	music = "",
+	point_positions =  
+	{
+		 
+		{
+			y = 167,
+			x = 169,
+			owner_id = 1004,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -166,
+			x = -170,
+			owner_id = 1001,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -125,
+			x = -169,
+			owner_id = 1000,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 158.19286,
+			x = 30.41732,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -143,
+			x = 126,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = -9.50450,
+			x = 2.24891,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = 140,
+			x = -103,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = 166,
+			x = 127,
+			owner_id = 1003,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 131.33835,
+			x = -175.93663,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 173.89824,
+			x = -84.04256,
+			owner_id = 0,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = -171.45024,
+			x = 101.97301,
+			owner_id = 0,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = -119.72985,
+			x = 176.23108,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 31.39048,
+			x = -64.33147,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 83.34020,
+			x = -111.36983,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = -0.21256,
+			x = 173.75987,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 80,
+			x = 80,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -151.54810,
+			x = -14.94734,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -80.88488,
+			x = -81.28432,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -91.64005,
+			x = 21.84779,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -0.61769,
+			x = -178.00606,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -12.91658,
+			x = 66.92492,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -78,
+			x = 96,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = -165,
+			x = -129,
+			owner_id = 1002,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 111.52573,
+			x = -38.47551,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 125,
+			x = 167,
+			owner_id = 1005,
+			ebp_name = "starting_position_shared_territory",
+		},
+	},
+	default_skins =  
+	{
+	},
+}
+
