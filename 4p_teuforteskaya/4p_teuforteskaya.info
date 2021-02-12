@@ -101,8 +101,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 80,
-			x = -109,
+			y = 80.21258,
+			x = -109.02788,
 			owner_id = 0,
 			ebp_name = "territory_munitions_point_mp",
 		},
@@ -171,8 +171,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 111.32589,
-			x = -37.57232,
+			y = 111.51746,
+			x = -37.38585,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
