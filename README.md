@@ -15,3 +15,5 @@ Situated somewhere on the Ukrainian border lies the quaint Soviet town of Teufor
 As Axis forces encroach, they discover the citizens of Teuforteskaya have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time.
 
 Nearby Soviet forces have been made aware of Axis presence by fleeing civilians, and thus proceed to advance on the town, setting up camp in the outskirts to prepare an offensive against their invaders.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/treboruk92)
